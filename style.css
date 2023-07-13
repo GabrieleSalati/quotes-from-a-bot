@@ -1,0 +1,32 @@
+/* RESET */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* HEADER STYLE */
+
+header {
+    background-color: #e9f45b;
+    text-align: center;
+    padding: 1rem;
+    color: #1212b2;
+}
+
+/* BODY STYLE */
+
+body {
+    background-color: #6885e0;
+}
+
+/* CHARACTER */
+
+.character {
+    background-color: #a1d2ff;
+    height: 120px;
+    max-width: 120px;
+    width: 120px;
+    border-radius: 50%;
+}
