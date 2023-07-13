@@ -37,3 +37,22 @@ body {
 img {
     width: 100%;
 }
+
+/* LOADER */
+
+.loader {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    z-index: 1;
+    background-color: rgba(161, 210, 255, 0.8);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.loader-img {
+    width: 100px;
+}
